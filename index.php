@@ -43,7 +43,7 @@
                         'There are no facts, only interpretations. -Friedrich Nietzsche'
                     ];
                 $rand_quote = array_rand($quotes, 1);
-                echo $rand_quote;
+                echo $quotes[$rand_quote];
                 ?>  
                 </blockquote>
             </div>
