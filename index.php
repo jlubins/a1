@@ -17,7 +17,7 @@
         <div class="row">
             <div class="col-sm-8">
                 <h1>John W. Lubinski</h1>
-                <a href="images/IMG_3905.JPG" title="me"></a>
+                <a src="images/IMG_3905.JPG" title="me"></a>
                 <h1>About Me</h1>
                 <p>I am a full time student taking this course following CSCI E-10 and CSCI E-50 (CS50) to solidify and build upon my knowledge of web application programming. I am hoping to apply and get into Harvard Extension School's ALB program following this semester.</p>
                 <h1>Random Quote</h1>
