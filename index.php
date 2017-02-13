@@ -40,7 +40,8 @@
                         'As a teenager you are at the last stage in your life when you will be happy to hear that the phone is for you. -Fran Lebowitz',
                         'There is always some madness in love. But there is also always some reason in madness. -Friedrich Nietzsche',
                         'The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself. -Friedrich Nietzsche',
-                        'There are no facts, only interpretations. -Friedrich Nietzsche'
+                        'There are no facts, only interpretations. -Friedrich Nietzsche',
+                        'I don\'t want to wait three years to get over something. -Justine Ly'
                     ];
                 $rand_quote = array_rand($quotes, 1);
                 echo $quotes[$rand_quote];
