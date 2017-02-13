@@ -1,0 +1,32 @@
+body {
+    font-family: Coda;
+    color: whitesmoke;
+    background: #303030;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+iframe {
+    margin: 0 auto;
+    display: block;
+}
+
+.picture {
+    float: right;
+    clear: right;
+    display: inline-block;
+}
+
+.container-fluid {
+    background: #383838;
+}
+
+footer {
+    float: right;
+}
+
+input {
+    color: black;
+}
